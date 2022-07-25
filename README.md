@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Esra</h1>
+<h1 align="center">Hi there 👋, I'm Esra :relaxed:</h1>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/esra_paksoy" target="_blank" style='margin-right:10px'>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-I'm a Software Engineer who likes to work with JavaScript/Typescript and currently apprentice at lonca.works
+I'm a Software Engineer who likes to work with JavaScript/Typescript and currently apprentice at <a href="https://lonca.works/" >lonca.works </a> :heart:
 
 <!--
 **esrapaksoy/esrapaksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
