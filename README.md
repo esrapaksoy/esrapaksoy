@@ -14,7 +14,7 @@
   </a>
 </p>
 
-I'm a Software Engineer who likes to work with JavaScript/Typescript and currently apprentice at <a href="https://lonca.works/" >lonca.works </a> :heart:
+<p align="center"> I'm a Software Engineer who likes to work with JavaScript/Typescript and currently apprentice at <a href="https://lonca.works/" >lonca.works </a> :heart: </p>
 
 <!--
 **esrapaksoy/esrapaksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
